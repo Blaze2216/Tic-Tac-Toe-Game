@@ -1,27 +1,15 @@
 # Tic Tac Toe 🎮
 
-Welcome to **Tic Tac Toe**, a vibrant and responsive web-based game built with HTML, CSS, and JavaScript! Enjoy a classic 3x3 grid game with a modern twist, featuring a colorful gradient background, smooth animations, and score tracking. Challenge a friend and see who can claim victory in this timeless battle of X's and O's!
+Welcome to **Tic Tac Toe**, a vibrant and responsive web-based game built with HTML, CSS, and JavaScript! Enjoy a classic 3x3 grid game with a modern twist, featuring a colorful gradient background, smooth animations. Challenge a friend and see who can claim victory in this timeless battle of X's and O's!
 
-![Tic Tac Toe Screenshot](screenshot.png) <!-- Replace with actual screenshot path -->
 
 ## 🚀 Features
 
 - **Two-Player Fun**: Alternate between X and O to compete for victory.
 - **Responsive Design**: Scales beautifully on desktop and mobile using `vmin` units.
 - **Win & Draw Detection**: Instantly declares a winner or a draw with a celebratory message.
-- **Score Tracking**: Keeps track of wins for X and O across games.
-- **Turn Indicator**: Shows whose turn it is (Player X or O).
 - **Visual Polish**: Vibrant gradient background, shadow effects, and hover feedback on buttons.
-- **Accessibility**: Includes `aria-label` attributes for screen reader support.
 - **Reset & New Game**: Easily start a new game or reset the board.
-
-## 🎨 Screenshots
-
-![Game Board](screenshot-game.png) <!-- Replace with actual screenshot -->
-*Game in progress with Player X's turn.*
-
-![Winner Screen](screenshot-winner.png) <!-- Replace with actual screenshot -->
-*Celebrating a win with highlighted winning line.*
 
 ## 🛠️ Setup Instructions
 
@@ -53,7 +41,7 @@ Get the game running locally in just a few steps!
 
 ## 🤝 Contributing
 
-We’d love for you to contribute to this project! Here’s how:
+I’d love for you to contribute to this project! Here’s how:
 
 1. **Fork the Repository**: Click the "Fork" button on GitHub.
 2. **Clone Your Fork**:
